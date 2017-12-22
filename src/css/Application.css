@@ -1,0 +1,144 @@
+.wrap{
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Lobster';
+  color: white;
+  margin-top: 250px;
+}
+
+.h1{
+    font-size: 4em;
+}
+
+.recherche{
+
+  font-size: 2em;
+  font-family: 'Lobster';
+
+}
+
+.input{
+  margin-top: 40px;
+  width: 300px;
+  height: 40px;
+}
+
+
+
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    background-image: url("../image/background.jpg");
+    background-color: #013334;
+    background-repeat: no-repeat;
+}
+
+.bythoth{
+  margin-top: 2px;
+  margin-left: 185px;
+  width: 400px;
+  height: 250px;
+  background-image: url("../image/bythoth.png");
+  background-repeat: no-repeat;
+}
+
+
+html {
+  margin:0;
+  padding:0;
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+
+button{
+  margin-top: 5px;
+  width: 300px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius:15px;
+}
+
+
+.wrap2{
+  background-image: url("../image/background.jpg");
+  border-radius: 4px;
+  width: 100%;
+  height: 1000px;
+  margin: auto;
+  text-align: center;
+  font-family: 'Lobster';
+  color: white;
+  margin-top: 50px;
+}
+
+.oui{
+  color: #013334;
+}
+
+.inventaire{
+
+  width: 700px !important;
+  margin: auto !important;
+  text-align: center !important;
+  border: solid 2px black;
+  border-radius: 15px;
+
+
+}
+
+.inventaire input{
+  background-color: white !important;
+
+  border: 1px solid black !important;
+  border-radius:15px !important;
+}
+
+.inventory{
+  float: left;
+  margin-left: 30px;
+}
+.store{
+  display: inline-block;
+  width: 700px;
+  
+
+}
+.cart{
+  float: right;
+  margin-right: 20px;
+ 
+
+}
+
+.blockinfo{
+  border-radius: 10px;
+  width: 500px;
+  margin-left: 78px;
+  margin-top: 20px;
+  background-color: #cccccc;
+}
+
+.ajoute-au-panier{
+  font-family: 'Lobster';
+  font-size: 1.5em;
+}
+
+.prix{
+  margin-right: 20px;
+}
+
+.blockPanier{
+  width: 300px;
+  margin-right: 20px;
+}
+
+.nomPanier{
+  margin-right: 20px;
+}
+
+.blockprix{
+  width: 300px;
+  margin-right: 20px;
+}
