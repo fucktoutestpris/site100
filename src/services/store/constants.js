@@ -1,0 +1,12 @@
+export const STORE_CHANGE_NAME_STORE = "@store - change name store";
+export const STORE_VALID_NAME_STORE = "@store - valid store name";
+export const STORE_TOGGLE_EDIT = "@store - toggle edit product";
+export const STORE_ADD_PRODUCT = "@store - add product";
+export const STORE_EDIT_FIELD_PRODUCT = "@store - edit one field of product";
+export const STORE_CONFIRM_EDIT = "@store - valid editing";
+export const STORE_INCREMENT_PRODUCT_QUANITY = "@store - increment quantity  product";
+export const STORE_DECREMENT_PRODUCT_QUANITY = "@store - decrement quantity  product";
+export const STORE_ADD_TO_CART = "@store - add product to cart";
+export const STORE_REMOVE_TO_CART = "@store - remove product to cart";
+export const STORE_DELETE_PRODUCT = "@store - delete product"
+export const STORE_VALID_CART = "@store - valid cart";
